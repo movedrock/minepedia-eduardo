@@ -1,0 +1,17 @@
+{
+  "name": "Minepédia do Eduardo",
+  "short_name": "Minepédia",
+  "description": "Enciclopédia de Mobs do Minecraft para o Eduardo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2b2118",
+  "theme_color": "#5b8731",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
