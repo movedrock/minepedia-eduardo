@@ -29,7 +29,7 @@ function exibirMobs(mobs) {
 
         card.innerHTML = `
             <div class="img-container">
-                <img src="${mob.image}" alt="${mob.displayName}" loading="lazy">
+                <img src="${mob.image}" alt="${mob.displayName}" loading="lazy" onerror="this.style.display='none'; this.parentElement.innerHTML='<span style=\'font-size:0.8rem; color:#aaa;\'>${mob.displayName}</span>';">
             </div>
             <h2>${mob.displayName}</h2>
             <span class="badge ${mob.behavior}">${mob.behavior}</span>
