@@ -6,7 +6,7 @@
     "dimension": "overworld",
     "food": "Trigo",
     "description": "Dócil e comum nas planícies. Fornece leite quando você usa um balde nela.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/cow.png"
+    "image": "https://minecraft.wiki/images/Cow_JE5_BE2.png"
   },
   {
     "id": "pig",
@@ -15,7 +15,7 @@
     "dimension": "overworld",
     "food": "Cenoura, Batata ou Beterraba",
     "description": "Pode ser montado usando uma sela e guiado com uma cenoura no palito.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/pig.png"
+    "image": "https://minecraft.wiki/images/Pig_JE3_BE2.png"
   },
   {
     "id": "sheep",
@@ -24,7 +24,7 @@
     "dimension": "overworld",
     "food": "Trigo",
     "description": "Sua lã pode ser tingida de 16 cores diferentes e tosquiada sem machucá-la.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/sheep.png"
+    "image": "https://minecraft.wiki/images/White_Sheep_JE3_BE6.png"
   },
   {
     "id": "chicken",
@@ -33,7 +33,7 @@
     "dimension": "overworld",
     "food": "Sementes",
     "description": "Bate as asas ao cair de lugares altos para não se machucar e bota ovos.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/chicken.png"
+    "image": "https://minecraft.wiki/images/Chicken_JE2_BE2.png"
   },
   {
     "id": "horse",
@@ -42,7 +42,7 @@
     "dimension": "overworld",
     "food": "Maçã ou Cenoura Dourada",
     "description": "Ótimo companheiro para explorar o mundo rápido e pular obstáculos altos.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/horse/white.png"
+    "image": "https://minecraft.wiki/images/Horse_JE3_BE2.png"
   },
   {
     "id": "cat",
@@ -51,7 +51,7 @@
     "dimension": "overworld",
     "food": "Bacalhau Cru ou Salmão Cru",
     "description": "Assusta Creepers e Phantoms! Adora deitar em camas e baús.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/cat/red.png"
+    "image": "https://minecraft.wiki/images/Tabby_Cat_JE2_BE2.png"
   },
   {
     "id": "axolotl",
@@ -60,7 +60,7 @@
     "dimension": "overworld",
     "food": "Balde de Peixe Tropical",
     "description": "Criatura aquática colorida que ajuda o jogador em batalhas no fundo do mar.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/axolotl/lucy.png"
+    "image": "https://minecraft.wiki/images/Lucy_Axolotl_JE2_BE2.png"
   },
   {
     "id": "turtle",
@@ -69,7 +69,7 @@
     "dimension": "overworld",
     "food": "Erva Marinha",
     "description": "Nada rápido nos oceanos e volta sempre para a praia onde nasceu para botar ovos.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/turtle.png"
+    "image": "https://minecraft.wiki/images/Turtle_JE1_BE1.png"
   },
   {
     "id": "fox",
@@ -78,7 +78,7 @@
     "dimension": "overworld",
     "food": "Bagas Doces",
     "description": "Muito ágil, dorme durante o dia e adora carregar itens na boca.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/fox/red.png"
+    "image": "https://minecraft.wiki/images/Fox_JE1_BE1.png"
   },
   {
     "id": "frog",
@@ -87,7 +87,7 @@
     "dimension": "overworld",
     "food": "Bola de Slime",
     "description": "Dá saltos gigantes e muda de cor (laranja, branco ou verde) conforme o clima onde cresce.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/frog/temperate.png"
+    "image": "https://minecraft.wiki/images/Temperate_Frog_JE1_BE1.png"
   },
   {
     "id": "sniffer",
@@ -96,7 +96,7 @@
     "dimension": "overworld",
     "food": "Semente de Planta-Tocha",
     "description": "Um gigante gentil e antigo que fareja o chão para desenterrar sementes raras.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/sniffer.png"
+    "image": "https://minecraft.wiki/images/Sniffer_JE1_BE1.png"
   },
   {
     "id": "armadillo",
@@ -105,7 +105,7 @@
     "dimension": "overworld",
     "food": "Olho de Aranha",
     "description": "Se enrola em uma bola dura quando se assusta e solta escamas para fazer armadura de lobo.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/armadillo.png"
+    "image": "https://minecraft.wiki/images/Armadillo_JE2_BE2.png"
   },
   {
     "id": "villager",
@@ -114,7 +114,7 @@
     "dimension": "overworld",
     "food": "Pão, Cenoura ou Batata",
     "description": "Mora nas vilas, faz o som 'Hmmm' e troca itens úteis por esmeraldas.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/villager/plains.png"
+    "image": "https://minecraft.wiki/images/Plains_Villager_Base_JE2.png"
   },
   {
     "id": "allay",
@@ -123,7 +123,7 @@
     "dimension": "overworld",
     "food": "Fragmento de Ametista",
     "description": "Pequeno espírito azul voador que coleta itens iguais ao que você der na mão dele e adora dançar.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/allay.png"
+    "image": "https://minecraft.wiki/images/Allay_JE1_BE1.png"
   },
   {
     "id": "strider",
@@ -132,7 +132,7 @@
     "dimension": "nether",
     "food": "Fungo Distorcido",
     "description": "Criatura amigável do Nether que consegue caminhar sobre lagos de lava sem se queimar.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/strider.png"
+    "image": "https://minecraft.wiki/images/Strider_JE1_BE1.png"
   },
   {
     "id": "wolf",
@@ -141,7 +141,7 @@
     "dimension": "overworld",
     "food": "Osso ou Carne",
     "description": "Ao ser domado com ossos, ganha uma coleira e protege você em todas as aventuras.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/wolf/wolf.png"
+    "image": "https://minecraft.wiki/images/Wolf_JE2_BE2.png"
   },
   {
     "id": "bee",
@@ -150,7 +150,7 @@
     "dimension": "overworld",
     "food": "Flores",
     "description": "Poliniza flores e produz mel nas colmeias. Só ataca se mexerem no ninho dela.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/bee/bee.png"
+    "image": "https://minecraft.wiki/images/Bee_JE1_BE1.png"
   },
   {
     "id": "dolphin",
@@ -159,7 +159,7 @@
     "dimension": "overworld",
     "food": "Bacalhau Cru",
     "description": "Brinca nos oceanos e dá um impulso de velocidade quando você nada perto dele.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/fish/dolphin.png"
+    "image": "https://minecraft.wiki/images/Dolphin_JE1_BE1.png"
   },
   {
     "id": "panda",
@@ -168,7 +168,7 @@
     "dimension": "overworld",
     "food": "Bambu",
     "description": "Vive nas selvas de bambu, dá cambalhotas e cada um tem uma personalidade diferente.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/panda.png"
+    "image": "https://minecraft.wiki/images/Panda_JE1_BE1.png"
   },
   {
     "id": "polar-bear",
@@ -177,7 +177,7 @@
     "dimension": "overworld",
     "food": "Peixe (não domável)",
     "description": "Vive nas regiões congeladas. É calmo, mas defende ferozmente seus filhotes.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/animal/polar_bear.png"
+    "image": "https://minecraft.wiki/images/Polar_Bear_JE2_BE2.png"
   },
   {
     "id": "iron-golem",
@@ -186,7 +186,7 @@
     "dimension": "overworld",
     "food": "Barra de Ferro (reparo)",
     "description": "Gigante guardião que protege os aldeões contra monstros e entrega flores às crianças.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/iron_golem/iron_golem.png"
+    "image": "https://minecraft.wiki/images/Iron_Golem_JE2_BE2.png"
   },
   {
     "id": "enderman",
@@ -195,7 +195,7 @@
     "dimension": "end",
     "food": "Nenhuma",
     "description": "Alto, misterioso e se teletransporta. Adora carregar blocos, mas não gosta que olhem nos olhos dele.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/enderman.png"
+    "image": "https://minecraft.wiki/images/Enderman_JE3_BE1.png"
   },
   {
     "id": "piglin",
@@ -204,7 +204,7 @@
     "dimension": "nether",
     "food": "Barra de Ouro (troca)",
     "description": "Habitante do Nether obcecado por ouro. Fica amigável se você vestir uma armadura dourada.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/piglin.png"
+    "image": "https://minecraft.wiki/images/Piglin_JE1_BE1.png"
   },
   {
     "id": "creeper",
@@ -213,7 +213,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "O ícone do Minecraft! Chega bem quietinho, faz 'Tssss...' e explode.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/creeper/creeper.png"
+    "image": "https://minecraft.wiki/images/Creeper_JE2_BE1.png"
   },
   {
     "id": "zombie",
@@ -222,7 +222,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Aparece à noite e nas cavernas escuras. Não aguenta a luz do sol!",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/zombie/zombie.png"
+    "image": "https://minecraft.wiki/images/Zombie_JE3_BE2.png"
   },
   {
     "id": "skeleton",
@@ -231,7 +231,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Atirador habilidoso com arco e flecha que faz barulho de ossos batendo.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/skeleton/skeleton.png"
+    "image": "https://minecraft.wiki/images/Skeleton_JE6_BE4.png"
   },
   {
     "id": "spider",
@@ -240,7 +240,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Consegue escalar paredes altas e fica pacífica durante o dia claro.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/spider/spider.png"
+    "image": "https://minecraft.wiki/images/Spider_JE4_BE3.png"
   },
   {
     "id": "slime",
@@ -249,7 +249,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Um cubo verde saltitante que se divide em vários Slimes menores quando derrotado.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/slime/slime.png"
+    "image": "https://minecraft.wiki/images/Slime_JE3_BE2.png"
   },
   {
     "id": "witch",
@@ -258,7 +258,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Usa um chapéu pontudo e prepara poções mágicas para atacar ou se curar.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/witch.png"
+    "image": "https://minecraft.wiki/images/Witch_JE3.png"
   },
   {
     "id": "phantom",
@@ -267,7 +267,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Criatura voadora noturna que aparece no céu se o jogador passar muitos dias sem dormir.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/phantom.png"
+    "image": "https://minecraft.wiki/images/Phantom_JE2.png"
   },
   {
     "id": "warden",
@@ -276,7 +276,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Guardião gigante e cego das profundezas que detecta qualquer som ou vibração de passos.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/warden/warden.png"
+    "image": "https://minecraft.wiki/images/Warden_JE1_BE1.png"
   },
   {
     "id": "ghast",
@@ -285,7 +285,7 @@
     "dimension": "nether",
     "food": "Nenhuma",
     "description": "Fantasma gigante flutuante que chora e cospe bolas de fogo explosivas.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/ghast/ghast.png"
+    "image": "https://minecraft.wiki/images/Ghast_JE2_BE2.png"
   },
   {
     "id": "blaze",
@@ -294,7 +294,7 @@
     "dimension": "nether",
     "food": "Nenhuma",
     "description": "Feito de fogo e bastões giratórios, protege as fortalezas do Nether.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/blaze.png"
+    "image": "https://minecraft.wiki/images/Blaze_JE2.png"
   },
   {
     "id": "ender-dragon",
@@ -312,6 +312,6 @@
     "dimension": "nether",
     "food": "Nenhuma",
     "description": "Chefe voador de três cabeças invocável que dispara crânios explosivos.",
-    "image": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.20.4/entity/wither/wither.png"
+    "image": "https://minecraft.wiki/images/Wither_JE2_BE2.png"
   }
 ]
