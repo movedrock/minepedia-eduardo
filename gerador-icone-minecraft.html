@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerador de Ícone - Minepédia</title>
+</head>
+<body style="background: #2b2118; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; color: #fff; font-family: sans-serif;">
+    <h3>Gerando ícone da Minepédia do Eduardo...</h3>
+    <canvas id="canvasIcone" width="512" height="512" style="border: 4px solid #1e1e1f; margin: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"></canvas>
+    <br>
+    <a id="btnBaixar" download="icon.png" style="background: #5b8731; color: #fff; padding: 12px 24px; text-decoration: none; font-weight: bold; border: 3px solid #1e1e1f; text-transform: uppercase;">Baixar icon.png</a>
+
+    <script>
+        const canvas = document.getElementById('canvasIcone');
+        const ctx = canvas.getContext('2d');
+
+        // Fundo estilo bloco de grama e terra do Minecraft
+        ctx.fillStyle = '#5b8731'; // Verde grama superior
+        ctx.fillRect(0, 0, 512, 180);
+        ctx.fillStyle = '#3b2d21'; // Terra marrom inferior
+        ctx.fillRect(0, 180, 512, 332);
+
+        // Detalhes pixelados de textura nas bordas
+        ctx.fillStyle = '#76b041';
+        ctx.fillRect(20, 20, 60, 60);
+        ctx.fillRect(420, 40, 50, 50);
+        ctx.fillStyle = '#2b2118';
+        ctx.fillRect(50, 220, 80, 80);
+        ctx.fillRect(350, 350, 70, 70);
+
+        // Letra "E" centralizada com estilo forte/pixelado
+        ctx.fillStyle = '#ffffff';
+        ctx.font = 'bold 280px "Segoe UI", sans-serif';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.shadowColor = '#1e1e1f';
+        ctx.shadowOffsetX = 8;
+        ctx.shadowOffsetY = 8;
+        ctx.shadowBlur = 0;
+        ctx.fillText('E', 256, 266);
+
+        // Link para download automático do PNG gerado
+        document.getElementById('btnBaixar').href = canvas.toDataURL('image/png');
+    </script>
+</body>
+</html>
