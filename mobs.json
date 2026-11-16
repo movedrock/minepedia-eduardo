@@ -42,7 +42,7 @@
     "dimension": "overworld",
     "food": "Maçã ou Cenoura Dourada",
     "description": "Ótimo companheiro para explorar o mundo rápido e pular obstáculos altos.",
-    "image": "https://minecraft.wiki/images/Horse_JE3_BE2.png"
+    "image": "https://minecraft.wiki/images/Horse_JE4_BE3.png"
   },
   {
     "id": "cat",
@@ -51,7 +51,7 @@
     "dimension": "overworld",
     "food": "Bacalhau Cru ou Salmão Cru",
     "description": "Assusta Creepers e Phantoms! Adora deitar em camas e baús.",
-    "image": "https://minecraft.wiki/images/Black_Cat_JE2_BE2.png"
+    "image": "https://minecraft.wiki/images/Ocelot_JE2_BE2.png"
   },
   {
     "id": "axolotl",
