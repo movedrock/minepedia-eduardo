@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minepédia do Eduardo</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+    <header>
+        <h1>Minepédia do Eduardo</h1>
+        <div class="controles">
+            <input type="text" id="campo-busca" placeholder="Pesquisar mob..." oninput="filtrarMobs()">
+            <div class="filtros">
+                <button class="btn-filtro ativo" onclick="filtrarPorComportamento('todos', this)">Todos</button>
+                <button class="btn-filtro" onclick="filtrarPorComportamento('passivo', this)">Passivos</button>
+                <button class="btn-filtro" onclick="filtrarPorComportamento('neutro', this)">Neutros</button>
+                <button class="btn-filtro" onclick="filtrarPorComportamento('hostil', this)">Hostis</button>
+                <button class="btn-filtro" onclick="filtrarPorComportamento('chefe', this)">Chefes</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="grid-mobs" class="grid-mobs">
+            <!-- Os cards dos mobs serão injetados dinamicamente via JavaScript -->
+        </div>
+    </main>
+
+    <!-- Modal de Detalhes -->
+    <div id="modal-mob" class="modal-overlay" onclick="fecharModalFora(event)">
+        <div class="modal-conteudo">
+            <button class="btn-fechar" onclick="fecharModal()">X</button>
+            <div class="modal-img">
+                <img id="modal-imagem" src="" alt="">
+            </div>
+            <h2 id="modal-titulo">Nome do Mob</h2>
+            <div id="modal-badge-container"></div>
+            <div class="modal-info">
+                <p><strong>Dimensão:</strong> <span id="modal-dimensao">Overworld</span></p>
+                <p><strong>Alimento/Interação:</strong> <span id="modal-comida">-</span></p>
+                <p><strong>Descrição:</strong> <span id="modal-descricao">-</span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
