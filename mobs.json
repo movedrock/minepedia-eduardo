@@ -15,7 +15,7 @@
     "dimension": "overworld",
     "food": "Cenoura, Batata ou Beterraba",
     "description": "Pode ser montado usando uma sela e guiado com uma cenoura no palito.",
-    "image": "https://minecraft.wiki/images/Pig_JE3_BE2.png"
+    "image": "https://minecraft.wiki/images/Pig_JE2_BE1.png"
   },
   {
     "id": "sheep",
@@ -195,7 +195,7 @@
     "dimension": "end",
     "food": "Nenhuma",
     "description": "Alto, misterioso e se teletransporta. Adora carregar blocos, mas não gosta que olhem nos olhos dele.",
-    "image": "https://minecraft.wiki/images/Enderman_JE3_BE1.png"
+    "image": "https://minecraft.wiki/images/Enderman.png"
   },
   {
     "id": "piglin",
@@ -213,7 +213,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "O ícone do Minecraft! Chega bem quietinho, faz 'Tssss...' e explode.",
-    "image": "https://minecraft.wiki/images/Creeper_JE2_BE1.png"
+    "image": "https://minecraft.wiki/images/Creeper.png"
   },
   {
     "id": "zombie",
@@ -267,7 +267,7 @@
     "dimension": "overworld",
     "food": "Nenhuma",
     "description": "Criatura voadora noturna que aparece no céu se o jogador passar muitos dias sem dormir.",
-    "image": "https://minecraft.wiki/images/Phantom_JE2.png"
+    "image": "https://minecraft.wiki/images/Phantom.png"
   },
   {
     "id": "warden",
