@@ -15,7 +15,7 @@
     "dimension": "overworld",
     "food": "Cenoura, Batata ou Beterraba",
     "description": "Pode ser montado usando uma sela e guiado com uma cenoura no palito.",
-    "image": "https://minecraft.wiki/images/Pig_JE2_BE1.png"
+    "image": "https://minecraft.wiki/images/Pig.png"
   },
   {
     "id": "sheep",
@@ -69,7 +69,7 @@
     "dimension": "overworld",
     "food": "Erva Marinha",
     "description": "Nada rápido nos oceanos e volta sempre para a praia onde nasceu para botar ovos.",
-    "image": "https://minecraft.wiki/images/Turtle_JE1_BE1.png"
+    "image": "https://minecraft.wiki/images/Turtle.png"
   },
   {
     "id": "fox",
