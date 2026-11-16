@@ -42,7 +42,7 @@
     "dimension": "overworld",
     "food": "Maçã ou Cenoura Dourada",
     "description": "Ótimo companheiro para explorar o mundo rápido e pular obstáculos altos.",
-    "image": "https://minecraft.wiki/images/White_Horse_JE5_BE3.png"
+    "image": "https://minecraft.wiki/images/Horse_JE3_BE2.png"
   },
   {
     "id": "cat",
@@ -51,7 +51,7 @@
     "dimension": "overworld",
     "food": "Bacalhau Cru ou Salmão Cru",
     "description": "Assusta Creepers e Phantoms! Adora deitar em camas e baús.",
-    "image": "https://minecraft.wiki/images/Tabby_Cat_JE2_BE2.png"
+    "image": "https://minecraft.wiki/images/Black_Cat_JE2_BE2.png"
   },
   {
     "id": "axolotl",
@@ -60,7 +60,7 @@
     "dimension": "overworld",
     "food": "Balde de Peixe Tropical",
     "description": "Criatura aquática colorida que ajuda o jogador em batalhas no fundo do mar.",
-    "image": "https://minecraft.wiki/images/Lucy_Axolotl_JE2_BE2.png"
+    "image": "https://minecraft.wiki/images/Axolotl_(Lucy).png"
   },
   {
     "id": "turtle",
@@ -69,7 +69,7 @@
     "dimension": "overworld",
     "food": "Erva Marinha",
     "description": "Nada rápido nos oceanos e volta sempre para a praia onde nasceu para botar ovos.",
-    "image": "https://minecraft.wiki/images/Turtle_JE1_BE1.png"
+    "image": "https://minecraft.wiki/images/Turtle_JE2_BE2.png"
   },
   {
     "id": "fox",
@@ -78,7 +78,7 @@
     "dimension": "overworld",
     "food": "Bagas Doces",
     "description": "Muito ágil, dorme durante o dia e adora carregar itens na boca.",
-    "image": "https://minecraft.wiki/images/Fox_JE1_BE1.png"
+    "image": "https://minecraft.wiki/images/Red_Fox_JE2_BE2.png"
   },
   {
     "id": "frog",
